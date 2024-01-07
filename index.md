@@ -12,3 +12,5 @@ permalink: /
 
 
 Take a look at [my resumé](resume), view my [work samples](documentation), or [send me a message](mailto:blah@example.com).
+
+![A boat in a Chicago dock.](dock.jpg)
