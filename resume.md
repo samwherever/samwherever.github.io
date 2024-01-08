@@ -2,7 +2,7 @@
 layout: default
 title: Resumé
 nav_order: 2
-description:
+description: 
 permalink: /resume
 ---
 # Skills
@@ -11,7 +11,7 @@ permalink: /resume
 * HTML, CSS, JavaScript, Markdown
 * Git/GitHub
 * Jekyll (which I used to create this site)
-* Bash/Z Shell (Zsh)
+* Bash/Z Shell (Zsh)/CLI
 * Video production – scriptwriting, editing, motion graphics, voice overs
 * Adobe Creative Suite: Premiere Pro, After Effects, Photoshop, Illustrator
 * French (Writing/Speaking)
