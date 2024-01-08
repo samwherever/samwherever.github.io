@@ -48,6 +48,7 @@ At Liasion, I wrote and edited articles on behalf of an educational professional
 
 ## Content Specialist
 **Wick Marketing - Austin,TX** \
+August 2017 – January 2019
 
 My duties as a Content Specialist focused on producing social media posts and video advertisements for clients in the construction industry.
 

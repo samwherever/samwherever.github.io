@@ -8,7 +8,6 @@ permalink: /documentation
 
 ## Documentation Examples
 
-Here are examples of documentation work.
+Here are some examples of documentation work I've done.
 
 ![](img/rule-expression.png)
-This is a caption.
