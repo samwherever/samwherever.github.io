@@ -11,7 +11,7 @@ permalink: /resume
 * HTML, CSS, JavaScript, Markdown
 * Git/GitHub
 * Jekyll (which I used to create this site)
-* Bash/Z Shell (Zsh)/CLI
+* Bash/Z Shell (Zsh)
 * Video production – scriptwriting, editing, motion graphics, voice overs
 * Adobe Creative Suite: Premiere Pro, After Effects, Photoshop, Illustrator
 * French (Writing/Speaking)
