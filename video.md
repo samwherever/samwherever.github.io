@@ -3,7 +3,7 @@ layout: default
 title: Video
 nav_order: 4
 description:
-permalink: /Video
+permalink: /video
 ---
 
 These videos were written, produced, edited, and voiced by me, through a combination of Adobe Audition, Adobe Premiere Pro, and Adobe AfterEffects.
