@@ -2,7 +2,7 @@
 layout: default
 title: Resumé
 nav_order: 2
-description: 
+description: An overview of my work history and skills.
 permalink: /resume
 ---
 # Skills
@@ -22,10 +22,9 @@ permalink: /resume
 **Sertifi – Chicago, IL** \
 March 2020 - Present
 
-As the sole technical writer at Sertifi, and only the second in its history, I built a completely new support site in advance of the company launching a major renovation of its primary software products. In addition to writing support and technical documentation, I also wrote release notes and organized existing resources for greater usability by the development and customer success teams.
+As the sole technical writer at Sertifi, and only the second in its history, I built a [completely new support site](https://supportcenter.sertifi.com) in advance of the company launching a major renovation of its primary software products. In addition to writing support and technical documentation, I also wrote release notes and organized existing resources for greater usability by the development and customer success teams.
 
-In my role as a video producer, I scripted, produced, and edited videos for use in support and marketing. I also recorded the voice-overs for many of these videos. [Watch them
- here](video).
+In my role as a video producer, I scripted, produced, and edited videos for use in support and marketing. I also recorded the voice-overs for many of these videos. [Watch them here](video).
 
 
 ## Technical Writer (Contract)
