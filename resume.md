@@ -12,10 +12,11 @@ permalink: /resume
 * Git/GitHub
 * Jekyll (which I used to create this site)
 * Bash/Z Shell (Zsh)
+* i18n/Language Localization
 * Video production – scriptwriting, editing, motion graphics, voice overs
 * Adobe Creative Suite: Premiere Pro, After Effects, Photoshop, Illustrator
 * French (Writing/Speaking)
-* i18n/Language Localization
+
 
 # Experience
 ## Technical Writer and Video Producer
