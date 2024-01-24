@@ -12,7 +12,7 @@ permalink: /documentation
 
 ![The Sertifi Support Center](img/sertifi_support_center.png)
 
-As part of the leadup to Sertifi launching new versions of their core products, I complete rebuilt the support center with materials for these new versions, in addition to improving the deployment times, readability, and accessibility of customer documentation. This process included writing custom CSS and JavaScript in order to make the site match company branding, as well as adding functionality and navigation improvements.
+As part of the leadup to Sertifi launching new versions of their core products, I completely rebuilt the support center with materials for these new versions, in addition to improving the deployment times, readability, and accessibility of customer documentation. This process included writing custom CSS and JavaScript in order to make the site match company branding, as well as adding functionality and navigation improvements. The site was made using [Paligo](https://www.paligo.net).
 
 [View the live site here.](https://supportcenter.sertifi.com/?lang=en)
 
