@@ -7,25 +7,25 @@
     "relUrl": "/documentation#documentation-examples"
   },"1": {
     "doc": "Documentation",
-    "title": "Support Center",
-    "content": ". As part of the leadup to Sertifi launching new versions of their core products, I completely rebuilt the support center with materials for these new versions, in addition to improving the deployment times, readability, and accessibility of customer documentation. This process included writing custom CSS and JavaScript in order to make the site match company branding, as well as adding functionality and navigation improvements. The site was made using Paligo. View the live site here. ",
-    "url": "/documentation#support-center",
+    "title": "Table of contents",
+    "content": ". | Support Documenation | API Documentation | . ",
+    "url": "/documentation#table-of-contents",
     
-    "relUrl": "/documentation#support-center"
+    "relUrl": "/documentation#table-of-contents"
   },"2": {
     "doc": "Documentation",
-    "title": "Flowchart",
-    "content": "This is a flowchart demonstrating how users can create rules, or rule expressions, to determine how their data leak prevention (DLP) policies would be automatically enforced on files within their storage systems. ",
-    "url": "/documentation#flowchart",
+    "title": "Support Documenation",
+    "content": "Support Center . As part of the leadup to Sertifi launching new versions of their core products, I completely rebuilt the support center with materials for these new versions, in addition to improving the deployment times, readability, and accessibility of customer documentation. This process included writing custom CSS and JavaScript in order to make the site match company branding, as well as adding functionality and navigation improvements. The site was made using Paligo. View the live site here. This is a flowchart demonstrating how users can create rules, or rule expressions, to determine how their data leak prevention (DLP) policies would be automatically enforced on files within their storage systems. ",
+    "url": "/documentation#support-documenation",
     
-    "relUrl": "/documentation#flowchart"
+    "relUrl": "/documentation#support-documenation"
   },"3": {
     "doc": "Documentation",
-    "title": "REST APIs",
+    "title": "API Documentation",
     "content": ". With the Readme tool, I created a documentation site for Sertifi’s REST API that let users run test calls against their own production environments, in addition to generating sample calls in various programming languages. I also created sample recipes to demonstrate common API workflows. ",
-    "url": "/documentation#rest-apis",
+    "url": "/documentation#api-documentation",
     
-    "relUrl": "/documentation#rest-apis"
+    "relUrl": "/documentation#api-documentation"
   },"4": {
     "doc": "Documentation",
     "title": "Documentation",
@@ -35,11 +35,11 @@
     "relUrl": "/documentation"
   },"5": {
     "doc": "Home",
-    "title": "Technical writer, video producer, and photographer.",
+    "title": "Technical writer, video producer.",
     "content": "Made in Texas, working in Chicago. Take a look at my resumé, view my work samples, or send me a message. ",
-    "url": "/#technical-writer-video-producer-and-photographer",
+    "url": "/#technical-writer-video-producer",
     
-    "relUrl": "/#technical-writer-video-producer-and-photographer"
+    "relUrl": "/#technical-writer-video-producer"
   },"6": {
     "doc": "Home",
     "title": "Home",
