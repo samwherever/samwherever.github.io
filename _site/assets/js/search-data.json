@@ -1,11 +1,54 @@
 {"0": {
-    "doc": "Home",
-    "title": "Technical writer, video producer.",
-    "content": "Made in Texas, working in Chicago. Take a look at my resumé, view my work samples, or send me a message. ",
-    "url": "/#technical-writer-video-producer",
+<<<<<<< HEAD
+=======
+    "doc": "Documentation",
+    "title": "Documentation Examples",
+    "content": " ",
+    "url": "/documentation#documentation-examples",
     
+    "relUrl": "/documentation#documentation-examples"
+  },"1": {
+    "doc": "Documentation",
+    "title": "Support Center",
+    "content": ". As part of the leadup to Sertifi launching new versions of their core products, I completely rebuilt the support center with materials for these new versions, in addition to improving the deployment times, readability, and accessibility of customer documentation. This process included writing custom CSS and JavaScript in order to make the site match company branding, as well as adding functionality and navigation improvements. The site was made using Paligo. View the live site here. ",
+    "url": "/documentation#support-center",
+    
+    "relUrl": "/documentation#support-center"
+  },"2": {
+    "doc": "Documentation",
+    "title": "Flowchart",
+    "content": "This is a flowchart demonstrating how users can create rules, or rule expressions, to determine how their data leak prevention (DLP) policies would be automatically enforced on files within their storage systems. ",
+    "url": "/documentation#flowchart",
+    
+    "relUrl": "/documentation#flowchart"
+  },"3": {
+    "doc": "Documentation",
+    "title": "REST APIs",
+    "content": ". With the Readme tool, I created a documentation site for Sertifi’s REST API that let users run test calls against their own production environments, in addition to generating sample calls in various programming languages. I also created sample recipes to demonstrate common API workflows. ",
+    "url": "/documentation#rest-apis",
+    
+    "relUrl": "/documentation#rest-apis"
+  },"4": {
+    "doc": "Documentation",
+    "title": "Documentation",
+    "content": " ",
+    "url": "/documentation",
+    
+    "relUrl": "/documentation"
+  },"5": {
+>>>>>>> parent of 9370820 (TOC for doc page)
+    "doc": "Home",
+    "title": "Technical writer, video producer, and photographer.",
+    "content": "Made in Texas, working in Chicago. Take a look at my resumé, view my work samples, or send me a message. ",
+    "url": "/#technical-writer-video-producer-and-photographer",
+    
+<<<<<<< HEAD
     "relUrl": "/#technical-writer-video-producer"
   },"1": {
+=======
+    "relUrl": "/#technical-writer-video-producer-and-photographer"
+  },"6": {
+>>>>>>> parent of 9370820 (TOC for doc page)
     "doc": "Home",
     "title": "Home",
     "content": " ",

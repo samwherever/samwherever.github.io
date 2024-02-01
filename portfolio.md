@@ -6,6 +6,7 @@ description: This page contains examples of documentation work I've produced in 
 permalink: /portfolio
 ---
 
+<<<<<<< HEAD:portfolio.md
 ## Table of contents
 {: .no_toc }
 
@@ -18,6 +19,11 @@ permalink: /portfolio
 
 ### Support Center
 {: .no_toc}
+=======
+# Documentation Examples
+
+## Support Center
+>>>>>>> parent of 9370820 (TOC for doc page):documentation.md
 
 ![The Sertifi Support Center](img/sertifi_support_center.png)
 
@@ -25,11 +31,12 @@ As part of the leadup to Sertifi launching new versions of their core products, 
 
 [View the live site here.](https://supportcenter.sertifi.com/?lang=en)
 
+## Flowchart
 
 ![A software flowchart.](img/rule-expression.png)
 This is a flowchart demonstrating how users can create rules, or rule expressions, to determine how their data leak prevention (DLP) policies would be automatically enforced on files within their storage systems.
 
-## API Documentation
+## REST APIs
 
 ![REST API documentation](img/rest_api_docs.png)
 
@@ -37,5 +44,3 @@ With the [Readme](https://readme.com/) tool, I created a documentation site for 
 
 ![REST API workflow recipes](img/rest_api_recipes.png)
 I also created sample recipes to demonstrate common API workflows.
-
-<!-- ## UX Writing -->
