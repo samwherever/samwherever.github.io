@@ -6,6 +6,7 @@ description: This page contains examples of documentation work I've produced in 
 permalink: /portfolio
 ---
 
+<<<<<<< HEAD:portfolio.md
 
 ## Table of contents
 {: .no_toc }
@@ -19,6 +20,11 @@ permalink: /portfolio
 
 ### Support Center
 {: .no_toc}
+=======
+# Documentation Examples
+
+## Support Center
+>>>>>>> parent of 9370820 (TOC for doc page):documentation.md
 =======
 # Documentation Examples
 
