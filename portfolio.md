@@ -2,11 +2,9 @@
 layout: default
 title: Portfolio
 nav_order: 3
-description: This page contains examples of documentation work I've produced in past positions.
+description: 
 permalink: /portfolio
 ---
-
-<<<<<<< HEAD:portfolio.md
 
 ## Table of contents
 {: .no_toc }
@@ -18,31 +16,16 @@ permalink: /portfolio
 
 ## Support Documenation
 
-### Support Center
-{: .no_toc}
-=======
-# Documentation Examples
-
-## Support Center
->>>>>>> parent of 9370820 (TOC for doc page):documentation.md
-=======
-# Documentation Examples
-
-## Support Center
->>>>>>> parent of 9370820 (TOC for doc page):documentation.md
-=======
-# Documentation Examples
-
-## Support Center
->>>>>>> parent of 9370820 (TOC for doc page):documentation.md
-
+### Support Site
+{: .no_toc }
 ![The Sertifi Support Center](img/sertifi_support_center.png)
 
 As part of the leadup to Sertifi launching new versions of their core products, I completely rebuilt the support center with materials for these new versions, in addition to improving the deployment times, readability, and accessibility of customer documentation. This process included writing custom CSS and JavaScript in order to make the site match company branding, as well as adding functionality and navigation improvements. The site was made using [Paligo](https://www.paligo.net).
 
 [View the live site here.](https://supportcenter.sertifi.com/?lang=en)
 
-## Flowchart
+### Flowchart
+{: .no_toc }
 
 ![A software flowchart.](img/rule-expression.png)
 This is a flowchart demonstrating how users can create rules, or rule expressions, to determine how their data leak prevention (DLP) policies would be automatically enforced on files within their storage systems.
