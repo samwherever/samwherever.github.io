@@ -24,6 +24,11 @@ permalink: /portfolio
 
 ## Support Center
 >>>>>>> parent of 9370820 (TOC for doc page):documentation.md
+=======
+# Documentation Examples
+
+## Support Center
+>>>>>>> parent of 9370820 (TOC for doc page):documentation.md
 
 ![The Sertifi Support Center](img/sertifi_support_center.png)
 
