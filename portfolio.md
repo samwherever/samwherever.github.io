@@ -6,7 +6,6 @@ description: This page contains examples of documentation work I've produced in 
 permalink: /portfolio
 ---
 
-<<<<<<< HEAD:portfolio.md
 ## Table of contents
 {: .no_toc }
 
