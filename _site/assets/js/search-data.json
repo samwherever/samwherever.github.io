@@ -15,7 +15,7 @@
   },"2": {
     "doc": "Portfolio",
     "title": "Table of contents",
-    "content": ". | Support Documenation | REST APIs | . ",
+    "content": ". | Support Documenation | REST APIs | Video Guides | . ",
     "url": "/portfolio#table-of-contents",
     
     "relUrl": "/portfolio#table-of-contents"
@@ -29,100 +29,86 @@
   },"4": {
     "doc": "Portfolio",
     "title": "REST APIs",
-    "content": ". With the Readme tool, I created a documentation site for Sertifi’s REST API that let users run test calls against their own production environments, in addition to generating sample calls in various programming languages. I also created sample recipes to demonstrate common API workflows. ",
+    "content": "With the Readme tool, I created a documentation site for Sertifi’s REST API that let users run test calls against their own production environments, in addition to generating sample calls in various programming languages. I also created sample recipes to demonstrate common API workflows. ",
     "url": "/portfolio#rest-apis",
     
     "relUrl": "/portfolio#rest-apis"
   },"5": {
+    "doc": "Portfolio",
+    "title": "Video Guides",
+    "content": "These videos were written, produced, edited, and voiced by me, through a combination of Adobe Audition, Adobe Premiere Pro, and Adobe AfterEffects. Guide Video Demo (Short) . This is an example of short, one-topic videos designed to answer common questions. Step-by-Step Tutorial Video (Long) . This was produced for an audience who may be using the product for the first time, or needing to get an overview of basic functions and features. ",
+    "url": "/portfolio#video-guides",
+    
+    "relUrl": "/portfolio#video-guides"
+  },"6": {
     "doc": "Portfolio",
     "title": "Portfolio",
     "content": " ",
     "url": "/portfolio",
     
     "relUrl": "/portfolio"
-  },"6": {
+  },"7": {
     "doc": "Resumé",
     "title": "Skills",
     "content": ". | Technical Writing/Editing, including SOAP and REST API documentation | HTML, CSS, JavaScript, Markdown | Git/GitHub | Jekyll (which I used to create this site) | Bash/Z Shell (Zsh) | i18n/Language Localization | Video production – scriptwriting, editing, motion graphics, voice overs | Adobe Creative Suite: Premiere Pro, After Effects, Photoshop, Illustrator | French (Writing/Speaking) | . ",
     "url": "/resume#skills",
     
     "relUrl": "/resume#skills"
-  },"7": {
+  },"8": {
     "doc": "Resumé",
     "title": "Experience",
     "content": " ",
     "url": "/resume#experience",
     
     "relUrl": "/resume#experience"
-  },"8": {
+  },"9": {
     "doc": "Resumé",
     "title": "Technical Writer and Video Producer",
     "content": "Sertifi – Chicago, IL March 2020 - Present . As the sole technical writer at Sertifi, and only the second in its history, I built a completely new support site in advance of the company launching a major renovation of its primary software products. In addition to writing support and technical documentation, I also wrote release notes and organized existing resources for greater usability by the development and customer success teams. In my role as a video producer, I scripted, produced, and edited videos for use in support and marketing. I also recorded the voice-overs for many of these videos. Watch them here. ",
     "url": "/resume#technical-writer-and-video-producer",
     
     "relUrl": "/resume#technical-writer-and-video-producer"
-  },"9": {
+  },"10": {
     "doc": "Resumé",
     "title": "Technical Writer (Contract)",
     "content": "CodeLathe – Austin, TX August 2019 - December 2019 . In my role as the main technical writer, I wrote product documentation and help guides for new product features in the company’s main product, FileCloud. An example of my work is here. ",
     "url": "/resume#technical-writer-contract",
     
     "relUrl": "/resume#technical-writer-contract"
-  },"10": {
+  },"11": {
     "doc": "Resumé",
     "title": "UX Script Writer (Contract)",
     "content": "Institute for Creative Integration – Austin, TX/San Jose, CA March 2019 - October 2019 . ICI was working on an autonomous vehicle agent (think something like HAL 9000 but more polite) for a major automotive manufacturer; I localized translated scripts to better reflect how an English speaker would talk to the vehicle, as well as guiding the vehicle’s vocal responses. ",
     "url": "/resume#ux-script-writer-contract",
     
     "relUrl": "/resume#ux-script-writer-contract"
-  },"11": {
+  },"12": {
     "doc": "Resumé",
     "title": "Writer &amp; Editor (Contract)",
     "content": "Liaison Creative - Austin, TX May 2019 - August 2019 . At Liasion, I wrote and edited articles on behalf of an educational professional’s association. ",
     "url": "/resume#writer--editor-contract",
     
     "relUrl": "/resume#writer--editor-contract"
-  },"12": {
+  },"13": {
     "doc": "Resumé",
     "title": "Content Specialist",
     "content": "Wick Marketing - Austin,TX August 2017 – January 2019 . My duties as a Content Specialist focused on producing social media posts and video advertisements for clients in the construction industry. ",
     "url": "/resume#content-specialist",
     
     "relUrl": "/resume#content-specialist"
-  },"13": {
+  },"14": {
     "doc": "Resumé",
     "title": "English Language Teaching Assistant",
     "content": "Ministère de l’Éducation – Laon, France September 2016 - May 2017 . My time as a teacher was spent instructing middle-schoolers the basics of English, including grammar, common vocabulary, and just for fun, some slang words. The students always wanted me to teach them swear words, but I politely declined. ",
     "url": "/resume#english-language-teaching-assistant",
     
     "relUrl": "/resume#english-language-teaching-assistant"
-  },"14": {
+  },"15": {
     "doc": "Resumé",
     "title": "Resumé",
     "content": " ",
     "url": "/resume",
     
     "relUrl": "/resume"
-  },"15": {
-    "doc": "Video",
-    "title": "Guide Video Demo (Short)",
-    "content": "This is an example of short, one-topic videos designed to answer common questions. ",
-    "url": "/video#guide-video-demo-short",
-    
-    "relUrl": "/video#guide-video-demo-short"
-  },"16": {
-    "doc": "Video",
-    "title": "Step-by-Step Tutorial Video (Long)",
-    "content": "This was produced for an audience who may be using the product for the first time, or needing to get an overview of basic functions and features. ",
-    "url": "/video#step-by-step-tutorial-video-long",
-    
-    "relUrl": "/video#step-by-step-tutorial-video-long"
-  },"17": {
-    "doc": "Video",
-    "title": "Video",
-    "content": "These videos were written, produced, edited, and voiced by me, through a combination of Adobe Audition, Adobe Premiere Pro, and Adobe AfterEffects. ",
-    "url": "/video",
-    
-    "relUrl": "/video"
   }
 }
