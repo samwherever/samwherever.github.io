@@ -37,7 +37,7 @@ This is a flowchart demonstrating how users can create rules, or rule expression
 ## REST APIs
 
 
-With the Readme tool, I [created a documentation site for Sertifi's REST API](https://sertifi.readme.io/) that let users run test calls against their own production environments, in addition to generating sample calls in various programming languages.
+I [created a documentation site for Sertifi's REST API](https://sertifi.readme.io/) that let users run test calls against their own production environments, in addition to generating sample calls in various programming languages.
 
 ![REST API documentation](img/rest_api_docs.png)
 
