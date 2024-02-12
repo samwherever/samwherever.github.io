@@ -29,7 +29,7 @@
   },"4": {
     "doc": "Portfolio",
     "title": "REST APIs",
-    "content": "With the Readme tool, I created a documentation site for Sertifi’s REST API that let users run test calls against their own production environments, in addition to generating sample calls in various programming languages. I also created sample recipes to demonstrate common API workflows. ",
+    "content": "I created a documentation site for Sertifi’s REST API that let users run test calls against their own production environments, in addition to generating sample calls in various programming languages. I also created sample recipes to demonstrate common API workflows. ",
     "url": "/portfolio#rest-apis",
     
     "relUrl": "/portfolio#rest-apis"
