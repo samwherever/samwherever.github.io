@@ -6,6 +6,8 @@ description:
 permalink: /portfolio
 ---
 
+# Portfolio
+
 ## Table of contents
 {: .no_toc }
 
