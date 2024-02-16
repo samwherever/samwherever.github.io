@@ -28,6 +28,11 @@ As part of the leadup to Sertifi launching new versions of their core products, 
 
 ![The Sertifi Support Center](img/sertifi_support_center.png)
 
+### Code Sample PDF
+{: .no_toc }
+
+![A code sample PDF.](img/pdf_sample.png)
+
 
 ### Flowchart
 {: .no_toc }

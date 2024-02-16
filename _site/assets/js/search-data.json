@@ -1,10 +1,10 @@
 {"0": {
     "doc": "Home",
-    "title": "Technical writer, video producer.",
+    "title": "Technical Writer &amp; Video Producer",
     "content": "Made in Texas, working in Chicago. Take a look at my resumé, view my work samples, or send me a message. ",
-    "url": "/#technical-writer-video-producer",
+    "url": "/#technical-writer--video-producer",
     
-    "relUrl": "/#technical-writer-video-producer"
+    "relUrl": "/#technical-writer--video-producer"
   },"1": {
     "doc": "Home",
     "title": "Home",
@@ -14,39 +14,39 @@
     "relUrl": "/"
   },"2": {
     "doc": "Portfolio",
+    "title": "Portfolio",
+    "content": " ",
+    "url": "/portfolio",
+    
+    "relUrl": "/portfolio"
+  },"3": {
+    "doc": "Portfolio",
     "title": "Table of contents",
     "content": ". | Support Documenation | REST APIs | Video Guides | . ",
     "url": "/portfolio#table-of-contents",
     
     "relUrl": "/portfolio#table-of-contents"
-  },"3": {
+  },"4": {
     "doc": "Portfolio",
     "title": "Support Documenation",
-    "content": "Support Site . As part of the leadup to Sertifi launching new versions of their core products, I completely rebuilt the support center with materials for these new versions, in addition to improving the deployment times, readability, and accessibility of customer documentation. This process included writing custom CSS and JavaScript in order to make the site match company branding, as well as adding functionality and navigation improvements. The site was made using Paligo. View the live site here. Flowchart . This is a flowchart demonstrating how users can create rules, or rule expressions, to determine how their data leak prevention (DLP) policies would be automatically enforced on files within their storage systems. ",
+    "content": "Support Site . As part of the leadup to Sertifi launching new versions of their core products, I completely rebuilt the support center with materials for these new versions, in addition to improving the deployment times, readability, and accessibility of customer documentation. This process included writing custom CSS and JavaScript in order to make the site match company branding, as well as adding functionality and navigation improvements. The site was made using Paligo. View the live site here. Code Sample PDF . Flowchart . This is a flowchart demonstrating how users can create rules, or rule expressions, to determine how their data leak prevention (DLP) policies would be automatically enforced on files within their storage systems. ",
     "url": "/portfolio#support-documenation",
     
     "relUrl": "/portfolio#support-documenation"
-  },"4": {
+  },"5": {
     "doc": "Portfolio",
     "title": "REST APIs",
     "content": "I created a documentation site for Sertifi’s REST API that let users run test calls against their own production environments, in addition to generating sample calls in various programming languages. I also created sample recipes to demonstrate common API workflows. ",
     "url": "/portfolio#rest-apis",
     
     "relUrl": "/portfolio#rest-apis"
-  },"5": {
+  },"6": {
     "doc": "Portfolio",
     "title": "Video Guides",
     "content": "These videos were written, produced, edited, and voiced by me, through a combination of Adobe Audition, Adobe Premiere Pro, and Adobe AfterEffects. Guide Video Demo (Short) . This is an example of short, one-topic videos designed to answer common questions. Step-by-Step Tutorial Video (Long) . This was produced for an audience who may be using the product for the first time, or needing to get an overview of basic functions and features. ",
     "url": "/portfolio#video-guides",
     
     "relUrl": "/portfolio#video-guides"
-  },"6": {
-    "doc": "Portfolio",
-    "title": "Portfolio",
-    "content": " ",
-    "url": "/portfolio",
-    
-    "relUrl": "/portfolio"
   },"7": {
     "doc": "Resumé",
     "title": "Skills",
