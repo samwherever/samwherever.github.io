@@ -5,7 +5,7 @@ nav_order: 1
 description: "#"
 permalink: /
 ---
-# Technical writer, video producer.
+# Technical Writer & Video Producer
 
 
 ### Made in Texas, working in Chicago. 
