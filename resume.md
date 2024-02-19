@@ -7,10 +7,10 @@ permalink: /resume
 ---
 # Skills
 
-* Technical Writing/Editing, including SOAP and REST API documentation
 * HTML, CSS, JavaScript
 * Markdown
 * Git/GitHub
+* REST APIs
 * Jekyll (which I used to create this site) and static site generators
 * Bash/Z Shell (Zsh)
 * Video production – scriptwriting, editing, motion graphics, voice overs
@@ -24,7 +24,7 @@ March 2020 - Present
 
 As the sole technical writer at Sertifi, and only the second in its history, I built a [completely new support site](https://supportcenter.sertifi.com) in advance of the company launching a major renovation of its primary software products. In addition to writing support and technical documentation, I also wrote release notes and organized existing resources for greater usability by the development and customer success teams.
 
-In my role as a video producer, I scripted, produced, and edited videos for use in support and marketing. I also recorded the voice-overs for many of these videos. [Watch them here](video).
+In my role as a video producer, I scripted, produced, and edited videos for use in support and marketing. I also recorded the voice-overs for many of these videos. [Watch them here](portfolio).
 
 
 ## Technical Writer (Contract)

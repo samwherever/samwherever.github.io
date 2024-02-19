@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Home",
     "title": "Technical Writer &amp; Video Producer",
-    "content": "Made in Texas, working in Chicago. Take a look at my resumé, view my work samples, or send me a message. ",
+    "content": "Take a look at my resumé, view my work samples, or send me a message. ",
     "url": "/#technical-writer--video-producer",
     
     "relUrl": "/#technical-writer--video-producer"
@@ -50,7 +50,7 @@
   },"7": {
     "doc": "Resumé",
     "title": "Skills",
-    "content": ". | Technical Writing/Editing, including SOAP and REST API documentation | HTML, CSS, JavaScript, Markdown | Git/GitHub | Jekyll (which I used to create this site) | Bash/Z Shell (Zsh) | i18n/Language Localization | Video production – scriptwriting, editing, motion graphics, voice overs | Adobe Creative Suite: Premiere Pro, After Effects, Photoshop, Illustrator | French (Writing/Speaking) | . ",
+    "content": ". | HTML, CSS, JavaScript | Markdown | Git/GitHub | REST APIs | Jekyll (which I used to create this site) and static site generators | Bash/Z Shell (Zsh) | Video production – scriptwriting, editing, motion graphics, voice overs | Adobe Creative Suite: Premiere Pro, After Effects, Photoshop, Illustrator | . ",
     "url": "/resume#skills",
     
     "relUrl": "/resume#skills"
