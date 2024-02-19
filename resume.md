@@ -8,14 +8,13 @@ permalink: /resume
 # Skills
 
 * Technical Writing/Editing, including SOAP and REST API documentation
-* HTML, CSS, JavaScript, Markdown
+* HTML, CSS, JavaScript
+* Markdown
 * Git/GitHub
-* Jekyll (which I used to create this site)
+* Jekyll (which I used to create this site) and static site generators
 * Bash/Z Shell (Zsh)
-* i18n/Language Localization
 * Video production – scriptwriting, editing, motion graphics, voice overs
 * Adobe Creative Suite: Premiere Pro, After Effects, Photoshop, Illustrator
-* French (Writing/Speaking)
 
 
 # Experience
