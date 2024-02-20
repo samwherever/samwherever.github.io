@@ -5,12 +5,12 @@ nav_order: 2
 description: An overview of my work history and skills.
 permalink: /resume
 ---
-# Skills
+# Skills and Background
 
 * HTML, CSS, JavaScript
 * Markdown
 * Git/GitHub
-* REST APIs
+* REST API Documentation (OAS/Swagger)
 * Jekyll (which I used to create this site) and static site generators
 * Bash/Z Shell (Zsh)
 * Video production – scriptwriting, editing, motion graphics, voice overs
