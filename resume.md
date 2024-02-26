@@ -8,9 +8,9 @@ permalink: /resume
 # Skills and Background
 
 * HTML, CSS, JavaScript
-* Markdown
+* Markdown, YAML, JSON
 * Git/GitHub
-* REST API Documentation (OAS/Swagger)
+* OpenAPI Specification/Swagger
 * Jekyll (which I used to create this site) and static site generators
 * Bash/Z Shell (Zsh)
 * Video production – scriptwriting, editing, motion graphics, voice overs
