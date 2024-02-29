@@ -31,13 +31,13 @@ In my role as a video producer, I scripted, produced, and edited videos for use 
 **CodeLathe – Austin, TX** \
 August 2019 - December 2019
 
-In my role as the main technical writer, I wrote product documentation and help guides for new product features in the company's main product, FileCloud. [An example of my work is here](https://www.filecloud.com/supportdocs/fcdoc/latest/online/filecloud-administrator-guide/governance-setup/smart-classification).
+In my role as the main technical writer, I wrote product documentation and help guides for new product features in the company's main product, FileCloud.
 
 ## UX Script Writer (Contract)
 **Institute for Creative Integration – Austin, TX/San Jose, CA** \
 March 2019 - October 2019
 
-ICI was working on an autonomous vehicle agent (think something like HAL 9000 but more polite) for a major automotive manufacturer; I localized translated scripts to better reflect how an English speaker would talk to the vehicle, as well as guiding the vehicle's vocal responses.
+As part of a project working on an in-vehicle voice assistant,  I localized translated scripts to better reflect how an English speaker would talk to the vehicle, as well as guiding the vehicle's vocal responses.
 
 ## Writer & Editor (Contract)
 **Liaison Creative - Austin, TX** \
