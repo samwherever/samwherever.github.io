@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Resumé
-nav_order: 2
+nav_order: 1
 description: An overview of my work history and skills.
 permalink: /resume
+nav_exclude: true
 ---
 # Skills and Background
 

@@ -4,6 +4,7 @@ title: Portfolio
 nav_order: 3
 description: 
 permalink: /portfolio
+nav_exclude: true
 ---
 
 # Portfolio
