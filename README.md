@@ -1,1 +1,0 @@
-# samwherever.github.io
